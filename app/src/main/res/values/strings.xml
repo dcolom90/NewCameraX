@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewCameraX</string>
+    <string name="preview_area">Area Visor</string>
+    <string name="capture">Capturar</string>
+</resources>
